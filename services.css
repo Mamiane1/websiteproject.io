@@ -1,0 +1,18 @@
+
+.content {
+    padding: 20px;
+    background: #fff;
+    margin-top: 20px;
+}
+.content h2 {
+    color: #333;
+}
+.content p {
+    line-height: 1.6;
+}
+.service {
+    margin-bottom: 20px;
+}
+.service h3 {
+    color: #77aaff;
+}

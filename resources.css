@@ -1,0 +1,55 @@
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.content {
+    padding: 20px;
+    background: #fff;
+    margin-top: 20px;
+}
+.content h2 {
+    color: #333;
+}
+.content p {
+    line-height: 1.6;
+}
+.resource-list {
+    list-style-type: none;
+    padding: 0;
+}
+.resource-list li {
+    background: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.resource-list li h3 {
+    margin: 0 0 10px 0;
+    color: #77aaff;
+}
+.resource-list li p {
+    margin: 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+}
+table th, table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+table th {
+    background-color: #77aaff;
+    color: white;
+}
+table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+table tr:hover {
+    background-color: #ddd;
+}
